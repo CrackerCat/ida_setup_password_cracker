@@ -10,7 +10,7 @@ Based on [this writeup](https://devco.re/blog/2019/06/21/operation-crack-hacking
 * Shit performance
 * Still finishes in like 30 minutes on my laptop's processor
 
-# Usage
+## Usage
 
 * Extract hash and salt using innounp from installer like this: `innounp -x -m setup.exe install_script.iss`
 * Paste it into the respective variables in the code
